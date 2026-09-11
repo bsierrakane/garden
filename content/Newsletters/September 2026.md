@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer faucibus in sap
 
 # Finds
 
-- **[The Dark Side of Mindfulness](https://archive.is/1H0ZE)\*, by Olga Khazan.** This piece really challenged my priors about meditation -- a practice that I regard as totally benign, if not for me. I also found it a good account of how unconventional scientific questions can rub against religion, business, and the scientific establishment. 
+- **[The Dark Side of Mindfulness](https://archive.is/1H0ZE)\*, by Olga Khazan.** This piece really challenged my priors about meditation -- a practice that I regard(ed) as totally benign, if not for me. I also found it a good account of how unconventional research can rub against religion, business, and the scientific establishment. How do you call into question Buddhist practices, core secular beliefs of meditators, and the multi-billion-dollar wellness industry?
   *\* archive.is link!*
 
 Love ya!
