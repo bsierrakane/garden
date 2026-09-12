@@ -4,6 +4,10 @@ quartz-properties: "false"
 tags:
   - "#essays"
 ---
+
+
+---
+
 (*Most of this information upfront comes from [a curated thread by u/SplurgyA on r/HobbyDrama](https://www.reddit.com/r/HobbyDrama/comments/mxcq2i/video_game_creatures_or_how_the_us_navy/)*)
 
 I recently watched a [video essay on Creatures](https://youtu.be/IDxFxWakhm0?si=ubZ8xBTN06UbKjHQ), a 90's simulation game that tasked its players with the care and keeping of little creatures called Norns. What made Creatures (game) so special was that its creatures (Norns) were simple neural networks capable of learning and producing emergent behavior — see a testimonial from someone whose Norns learned to play catch on their own, despite never been explicitly programmed to do so. The creator of Creatures, Steve Grand, endowed them with some wicked synthetic biology: not only were they capable of "cognition," they had reward and hormone systems, rudimentary biochemical systems and extensive genomes with capacity for breeding, leading players to engineer extensive pedigrees. Norns need your guidance and encouragement. Norns can get sick. Norns can learn language. Norns can die a lonely death! Naturally, players (which in the fandom are referred to as Breeders, but I hate that, and will not be using it) become very attached to their Norns. What's more, you can export and import your Norns to share with others. Upload and duplicate their consciousness [a la MMAcevedo](https://qntm.org/mmacevedo). Neat.

@@ -2,7 +2,6 @@
 title: TITLE
 draft: "true"
 tags:
-  - "#newsletter"
 quartz-properties: "false"
 description: DESC
 ---

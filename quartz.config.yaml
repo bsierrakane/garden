@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Bailey's Garden"
+  pageTitle: Bailey's Garden
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -90,7 +90,7 @@ plugins:
     enabled: false
     order: 85
   - source: "@quartz-community/hard-line-breaks"
-    enabled: false
+    enabled: true
     order: 90
   - source: "@quartz-community/ox-hugo"
     enabled: false
@@ -103,7 +103,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: "grounded-tierra"
+      theme: grounded-tierra
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -157,6 +157,7 @@ plugins:
     layout:
       position: right
       priority: 10
+    condition: not-hideGraph
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -256,6 +257,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:quartz-community/hard-line-breaks
+    enabled: false
+    options: {}
+    order: 90
 layout:
   groups:
     toolbar:

@@ -1,8 +1,56 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-img[alt*="sig-style"] {
-  img.blend-target {
-    mix-blend-mode: difference;
-  }
+/* Target the parent tag list container */
+ul.tags, .tags, .article-tags {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  flex-direction: row !important; /* Forces items side-by-side */
+  list-style: none !important;    /* Removes list bullet points */
+  padding: 0 !important;
+  margin: 0.5rem 0 !important;
+  gap: 0.5rem !important;         /* Space between tags */
+  width: 100% !important;
+}
+
+/* Force each list item (the wrapper) to wrap to the text width */
+ul.tags li, .tags li {
+  display: inline-block !important;
+  width: max-content !important; /* Stops the list container from stretching */
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Style the tag link inside */
+ul.tags li a, .tag-link {
+  display: inline-block !important;
+  white-space: nowrap !important; /* Prevents text inside a tag badge from breaking */
+}
+ul.tags li a, .tag-link, a.tag {
+  display: inline-block !important;
+  padding: 0rem 0.6rem !important; /* First value is top/bottom, second is left/right buffer */
+  border-radius: 10px !important;    /* Optional: Rounds the corners of the tag background */
+}
+
+/* 1. Remove orange background cast behind tags */
+.section-ul .tags,
+.section-li .tags,
+ul.section-ul li .tags {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+/* 2. Top-align each row element (Date, Title, and Tags) */
+ul.section-ul > li,
+.section-li,
+.section-li .desc,
+.section-li .section {
+  align-items: flex-start !important; /* Shifts title up to match top baseline */
+}
+
+.section-li .desc h3,
+.section-li .desc a.internal {
+  margin-top: 0 !important; /* Clears top margin on title heading */
 }
