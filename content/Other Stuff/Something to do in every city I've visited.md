@@ -2,11 +2,14 @@
 title: Something to do in every city I've visited
 tags:
   - travel
+  - list
+  - evergreen
 quartz-properties: "false"
 enableTOC: "true"
 hideGraph: "true"
+draft: "true"
 ---
-#evergreen
+#list #evergreen
 
 ---
 ## Arizona

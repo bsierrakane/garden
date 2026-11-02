@@ -3,6 +3,7 @@ title: Our Norns and our Blorbos
 quartz-properties: "false"
 tags:
   - "#essays"
+draft: "true"
 ---
 
 

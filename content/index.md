@@ -1,11 +1,12 @@
 ---
-title: Welcome to my garden 🌾
+title: welcome to my garden 🌾
 ---
 ![[header.png]]
 
 Check out some evergreen projects of mine:
 - My monthly #newsletter while I'm away in London
-- [[Bookshelf]] for reads and recs
+- [[Shelf]] for reads and recs
+- [[Something to do in every city I've visited]]
 
 ---
 
