@@ -1,6 +1,6 @@
 ---
 title: September 2026
-draft: "false"
+draft: "true"
 tags:
 quartz-properties: "false"
 description: My September newsletter

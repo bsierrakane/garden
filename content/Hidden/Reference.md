@@ -4,8 +4,8 @@ draft: "true"
 ```
 cd C:\Users\bsier\OneDrive\Documents\GitHub\garden>>
 
-nmx quartz sync
+npx quartz sync
 
-nmx quartz build --serve
+npx quartz build --serve
 
 ```
