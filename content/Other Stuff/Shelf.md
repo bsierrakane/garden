@@ -32,6 +32,11 @@ Sunburn // Howarth
 * Return of the King // Tolkien
 * Normal People // Rooney
 * And Then There Were None // Christie
+* The Hunger Games // Collins
+* Catching Fire // Collins
+* Mockingjay // Collins
+* Ballad of Songbirds and Snakes // Collins
+* Sunrise on the Reaping // Collins
 ### 2025
 * Kitchen Confidential // Bourdain
 * Mastery // Leonard
